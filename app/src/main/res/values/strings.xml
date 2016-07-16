@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Pedometer</string>
+
+    <string-array name="height_arrays" style="@style/spinnerStyle">
+        <item android:bottom="0sp" android:pading="0dp">5.0</item>
+        <item android:bottom="0sp" android:pading="0dp">5.1</item>
+        <item android:bottom="0sp" android:pading="0dp">5.2</item>
+
+    </string-array>
+</resources>
